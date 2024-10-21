@@ -1,0 +1,71 @@
+{
+  "name": "Parking Spot #100012",
+  "description": "A premium parking spot located at 6104 Roosevelt Rd. Oak Park, IL 60304.",
+  "image": "https://weparknetwork.com/parkinglotnft1.png",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "6104 Roosevelt Rd. Oak Park, IL 60304"
+    },
+    {
+      "trait_type": "Location Description",
+      "value": "The corner of Lyman and Roosevelt Rd, across from Lucky Dog."
+    },
+    {
+      "trait_type": "Lot Number",
+      "value": "001"
+    },
+    {
+      "trait_type": "Space Number",
+      "value": "012"
+    },
+    {
+      "trait_type": "Charging Station",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Covered Parking",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Surveillance",
+      "value": "24/7 CCTV monitoring"
+    },
+    {
+      "trait_type": "Handicap Accessible",
+      "value": "Yes, compliant with ADA standards"
+    },
+    {
+      "trait_type": "Price",
+      "value": "$2.50 per hour or $20 per day"
+    },
+    {
+      "trait_type": "Availability",
+      "value": "Currently available; reservations available between 08:00 AM to 10:00 PM daily"
+    },
+    {
+      "trait_type": "Size",
+      "value": "9 ft x 18 ft; suitable for compact to standard-sized vehicles"
+    },
+    {
+      "trait_type": "Access Type",
+      "value": "Reserved for members from 08:00 AM to 06:00 PM, open to the public thereafter"
+    },
+    {
+      "trait_type": "Floor Level",
+      "value": "Ground floor, easy access"
+    },
+    {
+      "trait_type": "Restrictions",
+      "value": "No parking over 24 consecutive hours; no trucks or RVs allowed"
+    },
+    {
+      "trait_type": "Promotional Offers",
+      "value": "15% discount for members on weekdays"
+    },
+    {
+      "trait_type": "Security Level",
+      "value": "Gated entry with security cameras"
+    }
+  ]
+}

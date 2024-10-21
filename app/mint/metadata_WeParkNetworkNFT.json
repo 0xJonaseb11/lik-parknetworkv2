@@ -1,0 +1,31 @@
+{
+  "name": "Oak Park Parking",
+  "description": "A parking lot located at 6104 Roosevelt Rd. Oak Park, IL 60304, providing premium parking services.",
+  "image": "https://weparknetwork.com/oakparkparking1.png",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "6104 Roosevelt Rd. Oak Park, IL 60304"
+    },
+    {
+      "trait_type": "Number of Spaces",
+      "value": 20
+    },
+    {
+      "trait_type": "Surveillance",
+      "value": "24/7 CCTV monitoring"
+    },
+    {
+      "trait_type": "Charging Stations",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Covered Parking",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Handicap Accessible",
+      "value": "Yes, compliant with ADA standards"
+    }
+  ]
+}

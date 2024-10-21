@@ -1,0 +1,86 @@
+{
+  "name": "WePark VIP Membership",
+  "description": "A VIP membership NFT for the WePark Network, offering premium benefits.",
+  "image": "https://weparknetwork.com/membershipnft1.png",
+  "attributes": [
+    {
+      "trait_type": "Member Name",
+      "value": "Alice Johnson"
+    },
+    {
+      "trait_type": "Member ID",
+      "value": "AJ20240418"
+    },
+    {
+      "trait_type": "Issuance Date",
+      "value": "2024-04-18"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "VIP"
+    },
+    {
+      "trait_type": "Benefits",
+      "value": [
+        "30% discount on all parking fees",
+        "Priority booking and reserved parking spaces",
+        "Free on-site vacuum service once per month"
+      ]
+    },
+    {
+      "trait_type": "Duration",
+      "value": "Annual"
+    },
+    {
+      "trait_type": "Access Level",
+      "value": "Access to all WePark network lots including exclusive VIP areas"
+    },
+    {
+      "trait_type": "Special Access",
+      "value": "On-site vacuum service available once per month at no additional cost"
+    },
+    {
+      "trait_type": "Annual Fee",
+      "value": "$500"
+    },
+    {
+      "trait_type": "Discount Rates",
+      "value": "30% off on all parking fees"
+    },
+    {
+      "trait_type": "Transactions URL",
+      "value": "https://wepark.com/members/alicejohnson/transactions"
+    },
+    {
+      "trait_type": "Reward Points",
+      "value": "15 points for every dollar spent, redeemable for free parking days or services"
+    },
+    {
+      "trait_type": "Partnership Benefits",
+      "value": [
+        "20% off at partner car wash services",
+        "10% discount at nearby retail outlets participating in the WePark network"
+      ]
+    },
+    {
+      "trait_type": "Upgrade Options",
+      "value": "Eligible to upgrade to 'Elite' status with additional benefits after 24 months or 5000 points"
+    },
+    {
+      "trait_type": "Cancellation Policy",
+      "value": "Can be cancelled with a full refund within the first 30 days of issuance"
+    },
+    {
+      "trait_type": "Renewal Terms",
+      "value": "Automatic renewal; notification sent 30 days before renewal with an option to opt-out"
+    },
+    {
+      "trait_type": "Policy URL",
+      "value": "https://wepark.com/members/terms"
+    },
+    {
+      "trait_type": "Authentication Protocol",
+      "value": "Blockchain-based digital signature verification, Dynamic QR code generated at each use, ensuring real-time validation"
+    }
+  ]
+}
